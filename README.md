@@ -1,1 +1,1 @@
-Demo repo for terraform ci cd exercises
+Demo repo for terraform ci cd exercises.
